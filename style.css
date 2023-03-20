@@ -124,7 +124,7 @@ input[type="search"] {
 }
 
 .landing{
-  background: url(/bg1.jpg) center center/cover ;
+  background: url(./bg1.jpg) center center/cover ;
   height: fit-content;
   min-height: 100%;
   min-height: 100vh;
